@@ -1,0 +1,14 @@
+{
+  "name": "2e8507994b72df87",
+  "main": "2e8507994b72df87@95.js",
+  "version": "95.0.0",
+  "homepage": "https://observablehq.com/d/2e8507994b72df87",
+  "author": {
+    "name": "Welspun",
+    "url": "https://observablehq.com/@welspun"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
